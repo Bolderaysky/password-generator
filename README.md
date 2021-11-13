@@ -1,6 +1,6 @@
 # PassGenerator
 ## Overview
-That's a cross-platform password generator that was written in Python. There are some options, for example, you can change length of generated passwords, change used combinations of symbols, disable/enable some symbol's registers, also you can generate password, which consists only from digits, special symbols or lowercase/uppercase letters.
+That's a cross-platform password generator that was written in Python. There are some options, for example, you can change length of generated passwords, also you can check how much time program spends on generating passwords with huge length.
 ## Why I've written that?
 I've written that password generator for these reasons:
 + I wanted to improve my Python skills and explore new libraries.
