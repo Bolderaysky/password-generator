@@ -10,11 +10,7 @@ I've written that password generator in the beginning of 2020, but then I didn't
 ## Will I improve or rewrite that project?
 In the near future, I don't plan to improve that project, rewrite with GUI or using another programming language, but I can't deny that I will do it in future.
 ## How to install all dependencies and use it?
-For installing dependencies:
-```
-pip install -r requirements.txt
-```
-For launching password generator:
+All dependencies are pre-installed in CPython interpreter, so you can simply run it:
 ```
 python main.py
 ```
